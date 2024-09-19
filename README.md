@@ -27,7 +27,7 @@
    
   </span>
 
-<h2 align="center">------------------------------------------ Contact me ------------------------------------------</h2>
+<h2 align="center">----------------------------------------- Contact me -----------------------------------------</h2>
 <p align="center">
   <a href="mailto:jorgebenediadobe@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
