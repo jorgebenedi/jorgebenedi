@@ -1,13 +1,6 @@
 <h2 align="center">------------------------------------------ About me ------------------------------------------</h2>
 <p align="center">I am a <strong>full stack developer</strong> however I also love doing <strong>ethical hacking projects</strong> </p>
-<h2 align="center">--------------------------------------------- Contact me ---------------------------------------------</h2>
-<p align="center">
-  <a href="mailto:jorgebenediadobe@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
-<h2 align="center">--------------------------------------------- Full-Stack ---------------------------------------------</h2>
+<h2 align="center">------------------------------------------ Full-Stack ------------------------------------------</h2>
 <p align="center">
   <span style="display: inline-block; margin: 0 5px;">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -24,4 +17,12 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   </span>
+<h2 align="center">------------------------------------------ Contact me ------------------------------------------</h2>
+<p align="center">
+  <a href="mailto:jorgebenediadobe@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+
 </p>
