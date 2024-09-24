@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   </span>
-  <h2 align="center">---------------------- Tools for System Management and Hacking ---------------------</h2>
+  <h2 align="center">--------- Tools for System Management and Hacking -------</h2>
   <p align="center">
   <span style="display: inline-block; margin: 0 5px;">
    
