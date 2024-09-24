@@ -1,6 +1,6 @@
 <h2 align="center">                                           About me                                             </h2>
 <p align="center">I am a <strong>full stack developer</strong> however I also love doing <strong>ethical hacking projects</strong> </p>
-<h2 align="center">------------------------------------------ Full-Stack ------------------------------------------</h2>
+<h2 align="center"> Full-Stack </h2>
 <p align="center">
   <span style="display: inline-block; margin: 0 5px;">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
