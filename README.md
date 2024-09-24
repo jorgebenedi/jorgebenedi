@@ -1,6 +1,7 @@
 <h2 align="center">                                           About me                                             </h2>
-<p>Since I was young I always had a special charm for computer systems, that led me to build my own computers, and to work for Samsung</p>
 <p align="center">I am a <strong>full stack developer</strong> however I also love doing <strong>ethical hacking projects</strong> </p>
+<p>Since I was young I always had a special charm for computer systems, that led me to build my own computers, and to work for Samsung</p>
+
 <h2 align="center"> Full-Stack </h2>
 <p align="center">
   <span style="display: inline-block; margin: 0 5px;">
