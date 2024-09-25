@@ -1,9 +1,9 @@
-<h2 align="center">                                           About me                                             </h2>
-<p align="center">I am a <strong>full stack developer</strong> however I also love doing <strong>ethical hacking projects</strong> </p>
+<h2>About me</h2>
+<p>I am a <strong>full stack developer</strong> however I also love doing <strong>ethical hacking projects</strong> </p>
 <p>Since I was young I always had a special charm for computer systems, that led me to build my own computers, and to work for Samsung</p>
 
-<h2 align="center"> Full-Stack </h2>
-<p align="center">
+<h2> Full-Stack </h2>
+<p>
   <span style="display: inline-block; margin: 0 5px;">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -13,6 +13,7 @@
     <img class="h-10" src="https://img.shields.io/badge/SAS-00A3E0?style=for-the-badge&logo=sas&logoColor=white" alt="SAS">
   </span>
 </p>
+
 <p align="center">
   <span style="display: inline-block; margin: 0 5px;">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
