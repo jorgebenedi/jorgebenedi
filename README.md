@@ -1,6 +1,6 @@
 <h2>About me</h2>
-<p>I am a <strong>full stack developer</strong></p>
-<p>Since I was young I always had a special charm for computer systems, that led me to build my own computers, and to work for Samsung</p>
+<p>-I am a <strong>full stack developer</strong></p>
+<p>-Since I was young I always had a special charm for computer systems, that led me to build my own computers, and to work for Samsung</p>
 
 <h2> Full-Stack </h2>
 <p>
