@@ -1,7 +1,7 @@
 <h2>About me</h2>
 <p>-Hola me llamo Jorge soy Full-Stack developer</p>
 <p>-Proyectos full-stack</p>
-<p>-Proyectos adminitración de sistemas y python hacking</p>
+<p>-Proyectos adminitracion_sistemas y Python Hacking</p>
 
 
 <h2> Full-Stack </h2>
