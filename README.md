@@ -1,12 +1,3 @@
-## About Me  
-
-- 👨‍💻 Currently working on my personal projects and actively looking for a position as a **Full Stack Developer** | Ethical Hacking & System Automation.  
-- 📚 Pursuing a Higher Degree in Web Application Development (2023–2025) at IES Alonso de Avellaneda.  
-- 🔀 Experienced in full stack development, system administration (Linux & Windows), and ethical hacking using Bash, PowerShell, and Python.  
-- ⚡ In my free time, I enjoy playing guitar, singing, and staying active with tennis or running.  
-
----  
-
 ## 🚀 Language and Tools  
 
 ### 🛠 Programming Languages  
@@ -20,6 +11,12 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%2352B0E7.svg?style=for-the-badge&logo=powershell&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+
+### 🧠 Automation & Hacking Tools
+
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)  
+![PowerShell](https://img.shields.io/badge/PowerShell-%2352B0E7.svg?style=for-the-badge&logo=powershell&logoColor=white)  
 
 ### 🏗 Frameworks & Libraries  
 
@@ -45,4 +42,4 @@
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=blac
