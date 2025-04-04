@@ -57,25 +57,7 @@
 <!-- Racha de contribuciones -->
 <img src="https://streak-stats.demolab.com?user=afsh4ck&theme=merko" alt="Racha de contribuciones"/>
 <!-- Estadísticas en formato cuadro como tu imagen -->
-<table>
-  <tr>
-    <td align="center">
-      <strong>365</strong><br>
-      <sub>Total Contributions</sub><br>
-      <sub>Apr 29, 2023 - Present</sub>
-    </td>
-    <td align="center">
-      <strong>0</strong><br>
-      <sub>Current Streak</sub><br>
-      <sub>Apr 4</sub>
-    </td>
-    <td align="center">
-      <strong>3</strong><br>
-      <sub>Longest Streak</sub><br>
-      <sub>Jul 19, 2023 - Jul 21, 2023</sub>
-    </td>
-  </tr>
-</table>
+
 
 </div>
 
