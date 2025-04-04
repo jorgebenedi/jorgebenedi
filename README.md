@@ -53,9 +53,11 @@
 </div>
 
 ### 🗄 Databases  
+### 🗄 Bases de Datos
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="60" style="display: inline-block; margin-right: 10px;" alt="PostgreSQL"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/MongoDB_logo.svg" width="60" style="display: inline-block; margin-right: 10px;" alt="MongoDB"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Firebase_Logo.svg" width="60" style="display: inline-block;" alt="Firebase"/>
 </div>
+
