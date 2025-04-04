@@ -56,9 +56,6 @@
 
 <!-- Racha de contribuciones -->
 <img src="https://streak-stats.demolab.com?user=afsh4ck&theme=merko" alt="Racha de contribuciones"/>
-
-</div>
-
 <!-- Estadísticas en formato cuadro como tu imagen -->
 <table>
   <tr>
@@ -81,7 +78,9 @@
 </table>
 
 </div>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgebenedi&show_icons=true&theme=radical&cache_seconds=1800)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgebenedi&layout=compact&theme=radical)
+
+</div>
+
 
