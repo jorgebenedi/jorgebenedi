@@ -53,10 +53,10 @@
   <img src="https://camo.githubusercontent.com/fe17e9f371fc3ed42a31d238b0d4f4a4d509ac2dfabecb86d3c850086c7d2e33/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d706c61696e2d776f72646d61726b2e737667" width="60" style="display: inline-block; margin-right: 10px;" alt="MongoDB"/>
   <img src="https://camo.githubusercontent.com/45cd0fc4c7b55b08de31ff349bb273b1aaab7bc91d283e8a5d4a31272a19f24d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f66697265626173652f66697265626173652d706c61696e2d776f72646d61726b2e737667" width="60" style="display: inline-block;" alt="Firebase"/>
 </div>
-
+<div>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgebenedi&layout=compact&theme=radical)
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgebenedi&layout=compact&theme=radical)
 
 </div>
 
