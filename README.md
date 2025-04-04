@@ -55,8 +55,7 @@
 ### 🗄 Databases  
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" style="display: inline-block; margin-right: 10px;" alt="PostgreSQL Logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" style="display: inline-block; margin-right: 10px;" alt="MongoDB Logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" style="display: inline-block;" alt="Firebase Logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="60" style="display: inline-block; margin-right: 10px;" alt="PostgreSQL"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/MongoDB_logo.svg/1200px-MongoDB_logo.svg.png" width="60" style="display: inline-block; margin-right: 10px;" alt="MongoDB"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Firebase_Logo.svg/1200px-Firebase_Logo.svg.png" width="60" style="display: inline-block;" alt="Firebase"/>
 </div>
-
