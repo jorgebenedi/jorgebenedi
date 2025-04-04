@@ -47,7 +47,6 @@
 </div>
 
 ### 🗄 Databases  
-### 🗄 Bases de Datos
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="60" style="display: inline-block; margin-right: 10px;" alt="PostgreSQL"/>
