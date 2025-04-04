@@ -59,19 +59,42 @@
 
 </div>
 
-## 📌 Métricas Específicas
+<!-- Estadísticas en formato cuadro como tu imagen -->
+<table>
+  <tr>
+    <td align="center">
+      <strong>365</strong><br>
+      <sub>Total Contributions</sub><br>
+      <sub>Apr 29, 2023 - Present</sub>
+    </td>
+    <td align="center">
+      <strong>0</strong><br>
+      <sub>Current Streak</sub><br>
+      <sub>Apr 4</sub>
+    </td>
+    <td align="center">
+      <strong>3</strong><br>
+      <sub>Longest Streak</sub><br>
+      <sub>Jul 19, 2023 - Jul 21, 2023</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+## ✔ Métricas Específicas
+
 ```text
-🌟 Total Stars: 232
-🔄 Commits (2025): 200
-🔀 Pull Requests: 13
-❗ Issues: 1
-🤝 Repos contribuidos: 1
+⭐ Total Stars:       232
+🔄 Commits (2025):    200
+🔀 Pull Requests:     13
+❗ Issues:            1
+🤝 Repos contribuídos: 1
 
 💻 Lenguajes principales:
-C          82.59%
-PowerShell 14.40%
-Shell       1.67%
-Python      0.97%
-Go          0.30%
-Ruby        0.07%
-
+C           82.59%
+PowerShell  14.40%
+Shell        1.67%
+Python       0.97%
+Go           0.30%
+Ruby         0.07%
