@@ -1,3 +1,12 @@
+## About Me  
+
+- 👨‍💻 Currently working on my personal projects and actively looking for a position as a **Full Stack Developer** | Ethical Hacking & System Automation.  
+- 📚 Pursuing a Higher Degree in Web Application Development (2023–2025) at IES Alonso de Avellaneda.  
+- 🔀 Experienced in full stack development, system administration (Linux & Windows), and ethical hacking using Bash, PowerShell, and Python.  
+- ⚡ In my free time, I enjoy playing guitar, singing, and staying active with tennis or running.  
+
+---  
+
 ## 🚀 Language and Tools  
 
 ### 🛠 Programming Languages  
