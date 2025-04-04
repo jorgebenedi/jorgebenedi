@@ -81,20 +81,7 @@
 </table>
 
 </div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
 
-## ✔ Métricas Específicas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
 
-```text
-⭐ Total Stars:       232
-🔄 Commits (2025):    200
-🔀 Pull Requests:     13
-❗ Issues:            1
-🤝 Repos contribuídos: 1
-
-💻 Lenguajes principales:
-C           82.59%
-PowerShell  14.40%
-Shell        1.67%
-Python       0.97%
-Go           0.30%
-Ruby         0.07%
