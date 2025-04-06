@@ -1,7 +1,7 @@
 ## About Me  
-¡Hola! Soy Jorge, un apasionado desarrollador web con experiencia tanto en front-end como en back-end. Mi objetivo es crear soluciones innovadoras y eficientes, utilizando siempre las tecnologías más avanzadas. Actualmente, manejo los últimos frameworks y una amplia variedad de lenguajes, lo que me permite mantenerme siempre actualizado y preparado para cualquier proyecto de desarrollo web.
-Además, tengo experiencia en proyectos orientados a sistemas, lo que me ha permitido adquirir una visión profunda sobre seguridad y gestión de sistemas operativos, conocimientos que aplico para mejorar la calidad y fiabilidad de las aplicaciones web que desarrollo.
-Este mundo me apasiona y siempre estoy buscando nuevas formas de aprender y crecer. Mi objetivo es seguir avanzando, aportar valor en cada proyecto y crear soluciones que realmente marquen la diferencia.
+Hello! I’m Jorge, a passionate web developer with experience in both front-end and back-end development. My goal is to create innovative and efficient solutions, always using the most advanced technologies. Currently, I work with the latest frameworks and a wide variety of programming languages, which allows me to stay up-to-date and ready for any web development project.
+Additionally, I have experience with system-oriented projects, which has given me a deep understanding of security and operating system management—knowledge I apply to improve the quality and reliability of the web applications I develop.
+I’m passionate about this field and always looking for new ways to learn and grow. My goal is to keep advancing, adding value to every project, and creating solutions that truly make a difference.
 ## 🚀 Language and Tools  
 
 ### 🛠 Programming Languages Web
