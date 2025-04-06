@@ -1,5 +1,7 @@
 ## About Me  
-
+¡Hola! Soy Jorge, un apasionado desarrollador web con experiencia tanto en front-end como en back-end. Mi enfoque está en crear soluciones innovadoras y eficientes, utilizando siempre las últimas tecnologías disponibles. A lo largo de mi trayectoria, he dominado herramientas clave en desarrollo web y he trabajado en proyectos que van desde la creación de interfaces interactivas hasta la optimización de sistemas y la integración de APIs.
+Además, tengo experiencia en proyectos orientados a sistemas, lo que me ha permitido adquirir una visión profunda sobre seguridad y gestión de sistemas operativos, conocimientos que aplico para mejorar la calidad y fiabilidad de las aplicaciones web que desarrollo.
+Este mundo me apasiona y siempre estoy buscando nuevas formas de aprender y crecer. Mi objetivo es seguir avanzando, aportar valor en cada proyecto y crear soluciones que realmente marquen la diferencia.
 ## 🚀 Language and Tools  
 
 ### 🛠 Programming Languages Web
