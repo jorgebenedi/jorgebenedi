@@ -57,6 +57,6 @@ I’m passionate about this field and always looking for new ways to learn and g
 
 ---
 
-### 📈 Lenguajes más usados
+### 📈 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgebenedi&layout=compact&theme=radical)
