@@ -13,6 +13,8 @@ I’m passionate about this field and always looking for new ways to learn and g
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" style="display: inline-block; margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" style="display: inline-block; margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" style="display: inline-block; margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" style="display: inline-block; margin-right: 10px;"/>
+
 </div>
 
 ### 🧠 Automation & Hacking Tools  
