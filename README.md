@@ -4,12 +4,6 @@
 ![portafolio_hacker_2](https://github.com/user-attachments/assets/37139b41-dfd2-4dbf-a9ab-ebbd76efc8fa)
 
 
-
-## About Me  
-Hello! I’m Jorge, a passionate web developer with experience in both front-end and back-end development. My goal is to create innovative and efficient solutions, always using the most advanced technologies. Currently, I work with the latest frameworks and a wide variety of programming languages, which allows me to stay up-to-date and ready for any web development project.
-Additionally, I have experience with system-oriented projects, which has given me a deep understanding of security and operating system management—knowledge I apply to improve the quality and reliability of the web applications I develop.
-I’m passionate about this field and always looking for new ways to learn and grow. My goal is to keep advancing, adding value to every project, and creating solutions that truly make a difference.
-
 ## ═[ Lenguajes y Herramientas ]═
 
 ### ░▒▓ Lenguajes Web
