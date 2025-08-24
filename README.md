@@ -1,3 +1,10 @@
+
+
+
+https://github.com/user-attachments/assets/83fa5a16-6722-41af-a20a-123e8d80eb67
+
+
+
 ## About Me  
 Hello! I’m Jorge, a passionate web developer with experience in both front-end and back-end development. My goal is to create innovative and efficient solutions, always using the most advanced technologies. Currently, I work with the latest frameworks and a wide variety of programming languages, which allows me to stay up-to-date and ready for any web development project.
 Additionally, I have experience with system-oriented projects, which has given me a deep understanding of security and operating system management—knowledge I apply to improve the quality and reliability of the web applications I develop.
