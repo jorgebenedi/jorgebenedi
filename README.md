@@ -37,8 +37,19 @@
             | --> Reverse Engineering           |
 ------------------------------------------------------
 
-            <----  CYBER OPERATIONS FLOW ---->
-
+[ FRAMEWORKS & TOOLS MAP ] 
+------------------------------------------------------
+[1]  FRAMEWORKS                          [2] DEVOPS & PLATFORMS
+      |                                         |
+      | --> React ⚛️                           | --> Docker 🐳
+      | --> Angular 19                          | --> Kubernetes
+      | --> Next.js                             | --> CI/CD Pipelines
+      | --> Spring Boot                         | --> Git / GitHub / GitLab
+      | --> Express.js                          | --> Azure ☁️
+      | --> Bootstrap / Tailwind                | --> Apache / Tomcat
+      |                                         |
+      | --> UI Libraries                        | --> Figma 🎨
+------------------------------------------------------
 
 ### 📈 Most Used Languages
 
