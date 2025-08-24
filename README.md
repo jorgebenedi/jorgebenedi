@@ -6,9 +6,13 @@
 
 
 ```txt
-[ WEB DEVELOPMENT ] 
-------------------------------------------------------
-[1]  FRONT-END PATH                      [2] BACK-END PATH
+╔════════════════════════════════════════════════════════╗
+║                     FULL-STACK                         ║
+╚════════════════════════════════════════════════════════╝
+
+[ WEB DEVELOPMENT ]
+------------------------------------------------------------
+FRONT-END PATH                         BACK-END PATH
       |                                         |
       | --> HTML 5                              | --> Node.js
       | --> CSS / SASS                          | --> Express.js
@@ -18,11 +22,11 @@
       | --> Angular 19                          |
       |                                         |
       | --> UI/UX (Bootstrap / Tailwind)        |
-------------------------------------------------------
+------------------------------------------------------------
 
-[ HACKING & AUTOMATION ] 
-------------------------------------------------------
-[1]  SCRIPTING CORE                       [2] AUTOMATION CORE
+[ HACKING & AUTOMATION ]
+------------------------------------------------------------
+SCRIPTING CORE                          AUTOMATION CORE
       |                                         |
       | --> Python 🐍                          | --> Bash 🖥️
       |     |                                   |     |
@@ -35,11 +39,11 @@
             | --> Windows Automation            |
             | --> AD / Security Scripts         |
             | --> Reverse Engineering           |
-------------------------------------------------------
+------------------------------------------------------------
 
-[ FRAMEWORKS & TOOLS ] 
-------------------------------------------------------
-[1]  FRAMEWORKS                          [2] DEVOPS & PLATFORMS
+[ FRAMEWORKS & TOOLS ]
+------------------------------------------------------------
+FRAMEWORKS                              DEVOPS & PLATFORMS
       |                                         |
       | --> React ⚛️                           | --> Docker 🐳
       | --> Angular 19                          | --> Kubernetes
@@ -49,39 +53,24 @@
       | --> Bootstrap / Tailwind                | --> Apache / Tomcat
       |                                         |
       | --> UI Libraries                        | --> Figma 🎨
-------------------------------------------------------
+------------------------------------------------------------
 
-          ╔══════════════╗
-          ║   DATABASES  ║
-          ╚══════════════╝
+╔════════════════════════╗
+║       DATABASES        ║
+╚════════════════════════╝
 
-                  ┌───────────────┐
-                  │ RELATIONAL DB │
-                  └───────┬───────┘
-                          │
-      ┌───────────────┬───────────────┬───────────────┐
-      │               │               │               │
-   MySQL 🐬       PostgreSQL 🐘     Oracle DB      SQL Queries
-      │               │               │
-      └───────────────┴───────────────┘
-                  │
-            Transactions
-                  │
-──────────────────────────────────────────────
-                  │
-                  ▼
-                  │
-          ┌───────────────┐
-          │   NO-SQL DB    │
-          └───────┬───────┘
-                  │
-      ┌───────────────┬───────────────┬───────────────┐
-      │               │               │               │
-   MongoDB 🍃       Firebase 🔥       Redis ⚡       JSON / Docs
-      │               │               │
-      └───────────────┴───────────────┘
-                  │
-             Real-time Data
+            RELATIONAL DB                          NO-SQL DB
+            ┌───────────────┐                       ┌───────────────┐
+            │               │                       │               │
+      MySQL 🐬   PostgreSQL 🐘   Oracle DB      MongoDB 🍃  Firebase 🔥  Redis ⚡
+            │               │                       │               │
+            └──────┬────────┘                       └──────┬────────┘
+                   │                                      │
+             Transactions                           Real-time Data
+                   │                                      │
+            Stored Procedures                        JSON / Docs
+            Joins & Queries
+
 
 ### 📈 Most Used Languages
 
