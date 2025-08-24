@@ -4,9 +4,13 @@
 ![portafolio_hacker_2](https://github.com/user-attachments/assets/37139b41-dfd2-4dbf-a9ab-ebbd76efc8fa)
 
 <br><br>
-╔════════════════════════════════════════════════════════╗
-║                     FULL-STACK                         ║
-╚════════════════════════════════════════════════════════╝
+```txt
+Email      : tuemail@dominio.com
+LinkedIn   : linkedin.com/in/tuusuario
+GitHub     : github.com/jorgebenedi
+Portfolio  : tuweb.com
+Telegram   : @tuusuario
+
 ```txt
 
 
