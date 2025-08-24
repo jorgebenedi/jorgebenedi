@@ -1,10 +1,8 @@
+![portfolio_hacker_2](https://github.com/user-attachments/assets/37139b41-dfd2-4dbf-a9ab-ebbd76efc8fa)
 
+## ═[ Languages & Tools ]═
 
-
-![portafolio_hacker_2](https://github.com/user-attachments/assets/37139b41-dfd2-4dbf-a9ab-ebbd76efc8fa)
-## ═[ Lenguajes y Herramientas ]═
-
-### ░▒▓ Lenguajes Web
+### ░▒▓ Web Languages
 <div style="background-color:#000000; color:#00ff00; padding:10px; border-radius:5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
@@ -15,14 +13,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
 </div>
 
-### ░▒▓ Automatización & Hacking
+### ░▒▓ Automation & Hacking
 <div style="background-color:#000000; color:#00ff00; padding:10px; border-radius:5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
 </div>
 
-### ░▒▓ Frameworks & Librerías
+### ░▒▓ Frameworks & Libraries
 <div style="background-color:#000000; color:#00ff00; padding:10px; border-radius:5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
@@ -32,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
 </div>
 
-### ░▒▓ Herramientas & Plataformas
+### ░▒▓ Tools & Platforms
 <div style="background-color:#000000; color:#00ff00; padding:10px; border-radius:5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
@@ -44,17 +42,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" style="display:inline-block; filter:drop-shadow(0 0 4px #00ff00);"/>
 </div>
 
-### ░▒▓ Bases de Datos
+### ░▒▓ Databases
 <div style="background-color:#000000; color:#00ff00; padding:10px; border-radius:5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" style="display:inline-block; filter:drop-shadow(0 0 4px #00ff00);"/>
 </div>
 
-### 📈 Most Used Languages
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgebenedi&layout=compact&bg_color=0d1117&title_color=ff0055&text_color=00ffff&icon_color=ff0055&border_color=00ffff)
-
-
-
-
+## ═[ 📩 Contact ]═
+<div style="background-color:#000000; color:#00ff00; padding:10px; border-radius:5px; text-align:center;">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" style="vertical-align:middle; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
+  <a href="mailto:jorgebenediadobe@gmail.com" style="color:#00ff00; text-decoration:none; font-size:18px;">jorgebenediadobe@gmail.com</a>
+</div>
