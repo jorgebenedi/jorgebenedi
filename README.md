@@ -11,7 +11,6 @@ GitHub     : github.com/jorgebenedi
 Portfolio  : tuweb.com
 Telegram   : @tuusuario
 
-```txt
 
 
 [ WEB DEVELOPMENT ]
