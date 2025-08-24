@@ -63,11 +63,8 @@ I’m passionate about this field and always looking for new ways to learn and g
 
 ### 📈 Most Used Languages
 
-## 💀 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgebenedi&layout=compact&bg_color=0d1117&title_color=ff0055&text_color=00ffff&icon_color=ff0055&border_color=00ffff)
 
-```shell
-> Accessing languages...
-> Decrypting usage patterns...
-> Done.
+
 
 
