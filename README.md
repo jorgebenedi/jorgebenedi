@@ -54,11 +54,6 @@ I’m passionate about this field and always looking for new ways to learn and g
 </div>
 
 ### ░▒▓ Bases de Datos
-<div style="background-color:#000000; color:#00ff00; padding:10px; border-radius:5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" style="display:inline-block; filter:drop-shadow(0 0 4px #00ff00);"/>
-</div>
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="60" style="display: inline-block; margin-right: 10px;" alt="PostgreSQL"/>
   <img src="https://camo.githubusercontent.com/fe17e9f371fc3ed42a31d238b0d4f4a4d509ac2dfabecb86d3c850086c7d2e33/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d706c61696e2d776f72646d61726b2e737667" width="60" style="display: inline-block; margin-right: 10px;" alt="MongoDB"/>
