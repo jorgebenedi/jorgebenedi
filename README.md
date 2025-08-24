@@ -5,11 +5,10 @@
 
 <br><br>
 ```txt
-Email      : tuemail@dominio.com
-LinkedIn   : linkedin.com/in/tuusuario
+Email      : jorgebenediadobe@gmail.com
+LinkedIn   : linkedin.com/in/jorgebenedi
 GitHub     : github.com/jorgebenedi
 Portfolio  : tuweb.com
-Telegram   : @tuusuario
 
 
 
