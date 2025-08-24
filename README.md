@@ -1,7 +1,7 @@
 
 
 
-https://github.com/user-attachments/assets/83fa5a16-6722-41af-a20a-123e8d80eb67
+![Uploading portafolio_hacker_1.gif…]()
 
 
 
