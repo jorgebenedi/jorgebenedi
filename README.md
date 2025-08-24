@@ -9,20 +9,20 @@
 Hello! I’m Jorge, a passionate web developer with experience in both front-end and back-end development. My goal is to create innovative and efficient solutions, always using the most advanced technologies. Currently, I work with the latest frameworks and a wide variety of programming languages, which allows me to stay up-to-date and ready for any web development project.
 Additionally, I have experience with system-oriented projects, which has given me a deep understanding of security and operating system management—knowledge I apply to improve the quality and reliability of the web applications I develop.
 I’m passionate about this field and always looking for new ways to learn and grow. My goal is to keep advancing, adding value to every project, and creating solutions that truly make a difference.
-## 🚀 Language and Tools  
 
 ## ═[ Lenguajes y Herramientas ]═
 
 ### ░▒▓ Lenguajes Web
 <div style="background-color:#000000; color:#00ff00; padding:10px; border-radius:5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
 </div>
+
 
 ### ░▒▓ Automatización & Hacking
 <div style="background-color:#000000; color:#00ff00; padding:10px; border-radius:5px;">
