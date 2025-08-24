@@ -12,8 +12,6 @@ I’m passionate about this field and always looking for new ways to learn and g
 
 ## ═[ Lenguajes y Herramientas ]═
 
-## ═[ Lenguajes y Herramientas ]═
-
 ### ░▒▓ Lenguajes Web
 <div style="background-color:#000000; color:#00ff00; padding:10px; border-radius:5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
