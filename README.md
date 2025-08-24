@@ -20,6 +20,26 @@
       | --> UI/UX (Bootstrap / Tailwind)        |
 ------------------------------------------------------
 
+[ HACKING & AUTOMATION SKILLS MAP ] 
+------------------------------------------------------
+[1]  SCRIPTING CORE                       [2] AUTOMATION CORE
+      |                                         |
+      | --> Python 🐍                          | --> Bash 🖥️
+      |     |                                   |     |
+      |     | --> Bots & Scraping               |     | --> System Tasks
+      |     | --> OSINT Tools                   |     | --> Server Automation
+      |     | --> Exploit Dev                   |     | --> Pentesting Scripts
+      |                                         |
+      | --> PowerShell ⚡                       |
+            |                                   |
+            | --> Windows Automation            |
+            | --> AD / Security Scripts         |
+            | --> Reverse Engineering           |
+------------------------------------------------------
+
+            <----  CYBER OPERATIONS FLOW ---->
+
+
 ### 📈 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgebenedi&layout=compact&bg_color=0d1117&title_color=ff0055&text_color=00ffff&icon_color=ff0055&border_color=00ffff)
