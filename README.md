@@ -51,6 +51,38 @@
       | --> UI Libraries                        | --> Figma 🎨
 ------------------------------------------------------
 
+          ╔══════════════════════════╗
+          ║ DATABASES & DATA FLOW   ║
+          ╚══════════════════════════╝
+
+                  ┌───────────────┐
+                  │ RELATIONAL DB │
+                  └───────┬───────┘
+                          │
+      ┌───────────────┬───────────────┬───────────────┐
+      │               │               │               │
+   MySQL 🐬       PostgreSQL 🐘     Oracle DB      SQL Queries
+      │               │               │
+      └───────────────┴───────────────┘
+                  │
+            Transactions
+                  │
+──────────────────────────────────────────────
+                  │
+                  ▼
+                  │
+          ┌───────────────┐
+          │   NO-SQL DB    │
+          └───────┬───────┘
+                  │
+      ┌───────────────┬───────────────┬───────────────┐
+      │               │               │               │
+   MongoDB 🍃       Firebase 🔥       Redis ⚡       JSON / Docs
+      │               │               │
+      └───────────────┴───────────────┘
+                  │
+             Real-time Data
+
 ### 📈 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgebenedi&layout=compact&bg_color=0d1117&title_color=ff0055&text_color=00ffff&icon_color=ff0055&border_color=00ffff)
