@@ -4,6 +4,8 @@
 ![portafolio_hacker_2](https://github.com/user-attachments/assets/37139b41-dfd2-4dbf-a9ab-ebbd76efc8fa)
 
 
+
+```txt
 [ WEB DEVELOPMENT SKILLS MAP ] 
 ------------------------------------------------------
 [1]  FRONT-END PATH                      [2] BACK-END PATH
@@ -17,11 +19,6 @@
       |                                         |
       | --> UI/UX (Bootstrap / Tailwind)        |
 ------------------------------------------------------
-
-            <----  FULL-STACK INTEGRATION ---->
-
-
----
 
 ### 📈 Most Used Languages
 
