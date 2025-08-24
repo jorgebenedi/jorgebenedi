@@ -6,7 +6,7 @@
 
 
 ```txt
-[ WEB DEVELOPMENT SKILLS MAP ] 
+[ WEB DEVELOPMENT ] 
 ------------------------------------------------------
 [1]  FRONT-END PATH                      [2] BACK-END PATH
       |                                         |
@@ -20,7 +20,7 @@
       | --> UI/UX (Bootstrap / Tailwind)        |
 ------------------------------------------------------
 
-[ HACKING & AUTOMATION SKILLS MAP ] 
+[ HACKING & AUTOMATION ] 
 ------------------------------------------------------
 [1]  SCRIPTING CORE                       [2] AUTOMATION CORE
       |                                         |
@@ -37,7 +37,7 @@
             | --> Reverse Engineering           |
 ------------------------------------------------------
 
-[ FRAMEWORKS & TOOLS MAP ] 
+[ FRAMEWORKS & TOOLS ] 
 ------------------------------------------------------
 [1]  FRAMEWORKS                          [2] DEVOPS & PLATFORMS
       |                                         |
@@ -51,9 +51,9 @@
       | --> UI Libraries                        | --> Figma 🎨
 ------------------------------------------------------
 
-          ╔══════════════════════════╗
-          ║ DATABASES & DATA FLOW   ║
-          ╚══════════════════════════╝
+          ╔══════════════╗
+          ║   DATABASES  ║
+          ╚══════════════╝
 
                   ┌───────────────┐
                   │ RELATIONAL DB │
