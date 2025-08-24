@@ -51,8 +51,16 @@
 
 ---
 
-## ═[ 📩 Contact ]═
+## ═[  Contact ]═
 <div style="background-color:#000000; color:#00ff00; padding:10px; border-radius:5px; text-align:center;">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" style="vertical-align:middle; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
-  <a href="mailto:jorgebenediadobe@gmail.com" style="color:#00ff00; text-decoration:none; font-size:18px;">jorgebenediadobe@gmail.com</a>
+  <details>
+    <summary>
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" style="cursor:pointer; filter:drop-shadow(0 0 4px #00ff00);" />
+    </summary>
+    <p style="margin-top:10px;">
+      <a href="mailto:jorgebenediadobe@gmail.com" style="color:#00ff00; text-decoration:none; font-size:18px;">
+        jorgebenediadobe@gmail.com
+      </a>
+    </p>
+  </details>
 </div>
