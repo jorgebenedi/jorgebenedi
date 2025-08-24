@@ -1,7 +1,7 @@
 
 
 
-![Uploading portafolio_hacker_1.gif…]()
+![portafolio_hacker_1](https://github.com/user-attachments/assets/38c7df29-b35c-433e-b196-e9e993de9b14)
 
 
 
