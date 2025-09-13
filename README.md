@@ -38,7 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Microsoft Azure" width="40" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" title="Apache" width="40" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" title="Apache Tomcat" width="40" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40" style="display:inline-block; filter:drop-shadow(0 0 4px #00ff00);"/>
 </div>
 
 ### ░▒▓ Databases
