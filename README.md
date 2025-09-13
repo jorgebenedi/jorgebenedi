@@ -11,6 +11,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
+
 </div>
 
 ### ░▒▓ Automation & Hacking
@@ -28,6 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" style="display:inline-block; margin-right:10px; filter:drop-shadow(0 0 4px #00ff00);" title="ASP.NET"/>
+
 </div>
 
 ### ░▒▓ Tools & Platforms
